@@ -4,5 +4,6 @@
         "hbaic",
         "isnull",
         "Novodra"
-    ]
+    ],
+    "python.analysis.typeCheckingMode": "basic"
 }
